@@ -5,4 +5,3 @@ resources:
   - configmap.yaml
 patches:
   - path: frontend-replicas.yaml
-  - path: backend-replicas.yaml
